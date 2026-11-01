@@ -1,0 +1,5 @@
+node_modules/
+.DS_Store
+*.geno
+geno-pedigree*.pdf
+geno-pedigree*.json
